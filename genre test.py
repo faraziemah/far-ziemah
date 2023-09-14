@@ -4,7 +4,7 @@ def main():
     print ("Guess the genre! everytime you guess it right,You'll get scores and everytime you don't,you'll get chances >_<!")
     print("what's your name? let me us know!")
     name=input()
-    print("we hope you'll enjoy this game")
+    print("alright, nice to meet you! we hope you'll enjoy this game")
     genre = [
         "jazz",
         "pop",
